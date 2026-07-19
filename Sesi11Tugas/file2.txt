@@ -1,0 +1,3 @@
+Sedangkan ini adalah isi dari file dua.
+Melanjutkan baris data yang akan digabungkan.
+Praktikum File Handling Java selesai dengan sukses!

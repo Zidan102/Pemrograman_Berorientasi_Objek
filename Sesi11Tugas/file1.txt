@@ -1,0 +1,3 @@
+Ini adalah isi baris pertama dari file satu.
+Ini adalah isi baris kedua dari file satu.
+Mahasiswa Informatika angkatan 2026.
